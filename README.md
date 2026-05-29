@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Bautista, Kyerbie Adam Rivera
 
 api call
@@ -28,3 +29,6 @@ DELETE – REMOVES A STUDENT RECORD BY ID OR DELETES ALL RECORDS IF REQUIRED.
 RUN THE URL HTTP http://127.0.0.1:8000/api/students/
 
 LINK IN GDRIVE OF MY VIDEO RECORDING https://drive.google.com/drive/folders/1jG8AcYoRQbQ2EObni6Oxn7QALH-HOlWB?usp=sharing
+=======
+# api_call
+>>>>>>> 93f6a8d1f882e6f2beacec1be6839a413ab0f54a
